@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jogging Application</string>
+    <string name="main_title">I would like to:</string>
+    <string name="jog_button_text">Jog</string>
+    <string name="cycle_button_text">Cycle</string>
+    <string name="start_edit_text">Starting Point</string>
+    <string name="dist_edit_text">Distance to Travel</string>
+</resources>
